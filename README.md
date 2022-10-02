@@ -1,6 +1,6 @@
 # Motion-Tracking-in-Virtual-Reality
 
-In this project, a machine learning pipeline is created using Convolutional Neural Network to analyse the recorded sensor data provided by the datasets. The accuracy and F1 Scores are then used to evaluate the classifier's performance.
+In this project, machine learning pipeline using Convolutional Neural Network is created to analyse the recorded sensor data provided by the datasets. The accuracy and F1 Scores are then used to evaluate the classifier's performance.
 
 
 # Platform used for training and testing
